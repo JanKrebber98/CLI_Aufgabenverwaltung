@@ -1,0 +1,8 @@
+ID;Titel;Beschreibung;Status;Priorität
+1;Aufgabe 1;Beschreibung 1;OFFEN;NIEDRIG
+2;Aufgabe 2;Beschreibung 2;IN_BEARBEITUNG;MITTEL
+3;Aufgabe 3;Beschreibung 3;OFFEN;HOCH
+4;Aufgabe 4;Beschreibung 4;OFFEN;MITTEL
+5;Aufgabe 5;Beschreibung 5;ERLEDIGT;MITTEL
+6;Lernen;Coden lernen;OFFEN;HOCH
+7;Bewerbung schreiben;Lebenslauf und Anschreiben schreiben;OFFEN;HOCH
